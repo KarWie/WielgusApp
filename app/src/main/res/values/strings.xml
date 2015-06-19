@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PAMOApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="randomizer_button_lbl">Randomize</string>
+    <string name="about_button_lbl">About</string>
+    <string name="dictionary_button_lbl">Jokes</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="author_id">Karolina Wielgus s9241</string>
+    <string name="email_address">s9241@pjwstk.edu.pl</string>
+    <string name="about_pagetitle">About the author</string>
+    <string name="main_pagetitle">Joker App</string>
+    <string name="title_activity_dictionary">DictionaryActivity</string>
+    <string name="dictionary_pagetitle">Edit the dictionary</string>
+    <string name="save_button_lbl">Save</string>
+    <string name="clear_button_lbl">Clear Memory</string>
+    <string name="items_lbl">Items in memory:</string>
+    <string name="title_activity_randomizer">RandomizerActivity</string>
+    <string name="randomizer_pagetitle">Result:</string>
+</resources>
